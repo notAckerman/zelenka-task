@@ -1,0 +1,9 @@
+org\example\api\BookApi.class
+org\example\utils\Parser$2.class
+org\example\model\Genre.class
+org\example\Main.class
+org\example\api\GenreApi.class
+org\example\utils\Parser.class
+org\example\Main$1.class
+org\example\model\Book.class
+org\example\utils\Parser$1.class

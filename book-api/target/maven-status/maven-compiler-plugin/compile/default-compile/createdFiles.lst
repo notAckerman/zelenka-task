@@ -1,0 +1,11 @@
+com\example\bookapi\service\BookService.class
+com\example\bookapi\service\IGenreService.class
+com\example\bookapi\model\Book.class
+com\example\bookapi\BookApiApplication.class
+com\example\bookapi\controller\BookController.class
+com\example\bookapi\repository\GenreRepository.class
+com\example\bookapi\model\Genre.class
+com\example\bookapi\repository\BookRepository.class
+com\example\bookapi\controller\GenreController.class
+com\example\bookapi\service\IBookService.class
+com\example\bookapi\service\GenreService.class
